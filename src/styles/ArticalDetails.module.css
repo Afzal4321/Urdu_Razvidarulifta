@@ -1,0 +1,56 @@
+
+/* src/styles/ArticalDetails.css */
+.article-header {
+    width: 1200px;
+    height: 191px;
+    padding: 16px 48px;
+    background: #b9eaff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 48px;
+  }
+  
+  .article-title {
+    width: 855px;
+    color: black;
+    font-size: 26px;
+    font-family: 'Noto Sans', sans-serif;
+    font-weight: 600;
+  }
+  
+  .article-meta {
+    color: black;
+    font-size: 24px;
+    font-weight: 400;
+    text-transform: uppercase;
+  }
+  
+  .article-breadcrumb {
+    width: 1200px;
+    height: 61px;
+    padding: 16px 8px;
+    background: #58e14f;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 8px;
+  }
+  
+  .article-list {
+    width: 345px;
+    height: 72px;
+    padding: 8px 24px;
+    background: #004604;
+    display: flex;
+    align-items: center;
+    gap: 16px;
+  }
+  
+  .article-description {
+    margin-top: 16px;
+    color: #333;
+    font-size: 18px;
+    text-align: justify;
+  }
+  
